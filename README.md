@@ -1,6 +1,6 @@
 # Image Ranking Web App
 
-<img src="/readme-stuff/image_ranker.png" alt="Project Image" width="50" height="50" />
+<img src="/readme-stuff/image_ranker.png" alt="Project Image" width="200" height="200" />
 
 
 This repository hosts the code for a web application that integrates **AWS DynamoDB** and **AWS S3** to store and rank images. Users can upload images, and then vote on their favorites. The rankings are stored in DynamoDB, and images are efficiently served from S3.
